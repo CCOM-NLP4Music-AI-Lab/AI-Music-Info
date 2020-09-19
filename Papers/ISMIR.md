@@ -1,7 +1,7 @@
 # ISMIR Paper List
 International Society for Music Information Retrieval
 
-| Year |  Name | Field |
+| Year |  Name | Field | Model |
 |------|-------------------------------|------|
 | 2019 | [The ISMIR Explorer - A Visual Interface for Exploring 20 Years of ISMIR Publications.](http://archives.ismir.net/ismir2019/paper/000092.pdf) | |
 | 2019 | [Analyzing User Interactions with Music Information Retrieval System - An Eye-tracking Approach.](http://archives.ismir.net/ismir2019/paper/000049.pdf) | |
