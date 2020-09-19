@@ -1,4 +1,4 @@
-# A Complete Summary and Information in the Field of AI Music
+# Useful Information in the Field of AI Music
 
 Contributed by Jiafeng Liu in CCOM
 
@@ -10,14 +10,32 @@ All information is only related to Deep Learning Techniques in the field of Musi
 
 - [Paper List](#paper-list)
 	- [ISMIR](#ismir)
-- [Usage](#usage)
+- [Open Source Datasets List](#open-source-datasets-list)
 
 
-## Paper List (2015 - today)
+## Paper List
+Only included papers after the year of 2015
+
 
 ### ISMIR
+International Society for Music Information Retrieval
+
 | Year |  Name | Field |
 |------|-------------------------------|------|
 | 1988 | Neural net modeling of music | No |
 | 1988 | [Creation by refinement: A creativity paradigm for gradient descent learning networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=23933) | No |
 | 1988 | A sequential network design for musical applications | No |
+
+
+### NIPS
+Neural Information Processing Systems
+
+| Year |  Name | Field |
+|------|-------------------------------|------|
+| 1988 | Neural net modeling of music | No |
+| 1988 | [Creation by refinement: A creativity paradigm for gradient descent learning networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=23933) | No |
+| 1988 | A sequential network design for musical applications | No |
+
+
+
+## Open Source Datasets List
