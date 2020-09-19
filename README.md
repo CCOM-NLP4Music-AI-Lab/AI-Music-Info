@@ -1,3 +1,3 @@
-# Recommended Paper Reading List in the field of AI Music
+# A full list of papers in the field of AI Music
 
 Contributed by Jiafeng Liu in CCOM
