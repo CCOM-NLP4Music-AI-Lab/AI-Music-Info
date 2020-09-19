@@ -8,12 +8,12 @@ All information is only related to Deep Learning Techniques in the field of Musi
 
 ## Table of contents
 
-- [Full Paper List](#paper-list)
+- **[Full Paper List](Papers)**
 	- [ISMIR](Papers/ISMIR.md)
 	
-- [Must-Read Papers](#must\-read-papers)
+- **[Must-Read Papers](#must\-read-papers)**
 	
-- [Open Source Datasets](#open-source-datasets)
+- **[Open Source Datasets](#open-source-datasets)**
 
 
 ## Must-Read Papers
