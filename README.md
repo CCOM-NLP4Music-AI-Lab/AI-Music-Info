@@ -21,8 +21,8 @@ All information is only related to Deep Learning Techniques in the field of Musi
 ## Must-Read Papers
 
 **Excellent work in the field of AI music, recommended for reading**
-
-
+<br/>
+<br/>
 - **ISMIR** (International Society for Music Information Retrieval)
 
 
