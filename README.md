@@ -2,8 +2,9 @@
 
 Contributed by Jiafeng Liu in CCOM
 
-## Overview of AI Music
+## Overview
 
+All information is only related to Deep Learning Techniques in the field of Music, to those who utilize tradional method will not be on the list.
 
 
 ## ISMIR Paper List (2015 - today)
