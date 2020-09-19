@@ -25,7 +25,6 @@ All information is only related to Deep Learning Techniques in the field of Musi
 - **ISMIR** (International Society for Music Information Retrieval)
 
 
-
 | Year |  Name | Field |
 |------|-------------------------------|------|
 | 1988 | Neural net modeling of music | No |
@@ -36,8 +35,8 @@ All information is only related to Deep Learning Techniques in the field of Musi
 | 1988 | A sequential network design for musical applications | No |
 
 
-### NIPS
-Neural Information Processing Systems
+- **NIPS** (Neural Information Processing Systems)
+
 
 | Year |  Name | Field |
 |------|-------------------------------|------|
