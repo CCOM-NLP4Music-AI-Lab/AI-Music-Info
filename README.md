@@ -22,7 +22,8 @@ All information is only related to Deep Learning Techniques in the field of Musi
 Excellent work in the field of AI music, recommended for reading
 
 
-### ISMIR
+- **ISMIR**
+
 International Society for Music Information Retrieval
 
 | Year |  Name | Field |
