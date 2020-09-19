@@ -6,9 +6,16 @@ Contributed by Jiafeng Liu in CCOM
 
 All information is only related to Deep Learning Techniques in the field of Music, to those who utilize tradional method will not be on the list.
 
+## Table of contents
 
-## ISMIR Paper List (2015 - today)
+- [Paper List](#paper-list)
+	- [ISMIR](#ismir)
+- [Usage](#usage)
 
+
+## Paper List (2015 - today)
+
+### ISMIR
 | Year |  Name | Field |
 |------|-------------------------------|------|
 | 1988 | Neural net modeling of music | No |
