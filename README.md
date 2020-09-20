@@ -28,13 +28,10 @@ All information is only related to Deep Learning Techniques in the field of Musi
 <br/>
 
 
-| Year |  Source | Name | Model |
-|------|-----|--------------------------|------|
-| 1988 | Neural net modeling of music | No | |
-| 1988 | A sequential network design for musical applications | No | |
-| 1988 | Neural net modeling of music | No | |
-| 1988 | [Creation by refinement: A creativity paradigm for gradient descent learning networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=23933) | No | |
-| 1988 | A sequential network design for musical applications | No | |
+|   Year | Title                                                                                                                                                                                            | Domain                                            | Model               |
+|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|---------------------|
+|   2019 | [A Bi-Directional Transformer for Musical Chord Recognition.](http://archives.ismir.net/ismir2019/paper/000075.pdf)                                                                              | Chord Recognition /Segmentation                   | Transformer         |
+
 
 
 
