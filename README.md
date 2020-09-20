@@ -18,8 +18,8 @@ All information is only related to Deep Learning Techniques in the field of Musi
 
 
 ## Full Paper List
-- [ISMIR](Papers/ISMIR.md)
-- [ICML](Papers/ICML.md)
+- [ISMIR (International Society for Music Information Retrieval)](Papers/ISMIR.md)
+- [ICML (International Conference on Machine Learning)](Papers/ICML.md)
 
 
 ## Must-Read Papers
