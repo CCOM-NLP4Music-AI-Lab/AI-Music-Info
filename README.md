@@ -37,15 +37,11 @@ All information is only related to Deep Learning Techniques in the field of Musi
 
 ## Open Source Datasets
 
-| Dataset                                          | Task                    | Language        | Size                           |
-| ------------------------------------------------ | ----------------------- | --------------- | ------------------------------ |
-| [Gamper (2000)](#Gamper)                         | Parallel Corpus         | Italian, German | 5m words                       |
-| [Grover et al. (2004)](#Grover)                  | Summarization           | English         | 40 documents, 12k sentences    |
-| [Hoekstra et al. (2007)](#Hoekstra)              | Ontology                | English         | 2378 concepts                  |
-| [Demenko et al. (2008)](#Demenko)                | Speech                  | Polish          | 2h vocal material              |
-| [Cvrcek et al. (2012)](#Cvrcek)                  | Dictionary              | Czech           | 10k entries, 20k terms         |
-| [Fawei et al. (2016)](#Fawei)                    | Question Answering      | English         | 400 questions                  |
-| [Locke et al. (2018)](#Locke)                    | Information Retrieve    | English         | 3m decisions, 2572 assessments |
+| Dataset Name        | Size/Info              | Type | URL                                             |
+|---------------------|------------------------|------|-------------------------------------------------|
+| Groove MIDI Dataset | 1150 MIDI files        | MIDI | https://magenta.tensorflow.org/datasets/groove  |
+| Lakh MIDI Dataset   | 176581 MIDI files      | MIDI | http://labrosa.ee.columbia.edu/sounds/music/    |
+| MAESTRO             | 172 hours of piano     | MIDI | https://magenta.tensorflow.org/datasets/maestro |
 
 
 ## FAQ
