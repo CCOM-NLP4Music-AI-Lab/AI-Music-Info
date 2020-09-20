@@ -8,7 +8,7 @@ All information is only related to Deep Learning Techniques in the field of Musi
 
 ## Table of contents
 
-- **[Full Paper List](full-paper-list)**
+- **[Full Paper List](#full-paper-list)**
 	
 - **[Must-Read Papers](#must\-read-papers)**
 	
