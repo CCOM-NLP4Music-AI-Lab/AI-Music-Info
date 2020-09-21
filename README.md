@@ -17,7 +17,7 @@ All information is only related to Deep Learning Techniques in the field of Musi
 - **[FAQ](#faq)**
 
 
-## Full Paper List
+## Full Paper List (Deep Learning Only)
 - [ISMIR (International Society for Music Information Retrieval)](Papers/ISMIR.md)
 - [ICML (International Conference on Machine Learning)](Papers/ICML.md)
 - [NIPS (Neural Information Processing Systems)](Papers/NIPS.md)
