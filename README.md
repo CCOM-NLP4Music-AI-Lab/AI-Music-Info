@@ -33,6 +33,7 @@ All information is only related to Deep Learning Techniques in the field of Musi
 |   Year | Title                                                                                                                                                                                            | Domain                                            | Model               |
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|---------------------|
 |   2019 | [A Bi-Directional Transformer for Musical Chord Recognition.](http://archives.ismir.net/ismir2019/paper/000075.pdf)                                                                              | Chord Recognition /Segmentation                   | Transformer         |
+|   2019 | [Music Transformer: Generating Music with Long-Term Structure.](http://https://openreview.net/pdf?id=rJe4ShAcF7)                                                                                 | Generation                                        | Transformer         |
 
 
 
