@@ -45,7 +45,7 @@ All information is only related to Deep Learning Techniques in the field of Musi
 | Groove MIDI Dataset | 1150 MIDI files                           | MIDI | https://magenta.tensorflow.org/datasets/groove  |
 | Lakh MIDI Dataset   | 176581 MIDI files                         | MIDI | http://labrosa.ee.columbia.edu/sounds/music/    |
 | MAESTRO             | 172 hours of piano                        | MIDI | https://magenta.tensorflow.org/datasets/maestro |
-| GiantMIDI-Piano     | 1237 hours of piano                       | MIDI | To be released soon                             |
+| GiantMIDI-Piano     | 1237 hours of piano                       | MIDI | https://github.com/bytedance/GiantMIDI-Piano    |
 | POP909              | 909 pieces of piano arrangement, 60 hours | MIDI | https://github.com/music-x-lab/POP909-Dataset   |
 
 
